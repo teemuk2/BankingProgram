@@ -13,5 +13,6 @@ Account balance displays balance for current account.<br/>
 Create account: type in wanted account name and press enter. Duplicate accounts will not be created if name already exists.<br/>
 Switch account: type in wanted account name (CASE SENSITIVE) and press Enter. (will only switch if account exists)<br/>
 Delete account: deletes current account and changes to default account. (Default account can't be deleted.<br/>
+Text at bottom: gives user feedback on actions (also displays error messages)
 
 Credits: All work by Teemu Korhonen
