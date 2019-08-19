@@ -1,5 +1,7 @@
 # BankingProgram
 
+Please check the wiki page for pictures and more info
+
 A banking program that allows you to make withdrawals or deposit money for user accounts. You can create new users, switch between users and delete users. Accounts are tracked with SQL and changes made to accounts or their account balance are saved.
 
 Installation: Open with any Java editor. Run Main.
